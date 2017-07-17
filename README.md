@@ -27,7 +27,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/WD6JsCh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/kdDYKYz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
